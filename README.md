@@ -20,12 +20,13 @@ Thirdly,
 - [Structure](#structure)
 - [Support](#support)
 - [Presentation](#presentation)
+- [Contributing](#contributing)
 
 ## Installation
 ### with Docker
 ```sh
-git clone https://gitlab.com/mJiyan/mercedes-codeing-challenge.git
-cd mercedes-codeing-challenge
+git clone https://github.com/mJiyan/mercedes-coding-challenge.git
+cd mercedes-coding-challenge
 docker-compose up --build
 
 -> Open your browser at http://localhost:3000 
@@ -33,20 +34,20 @@ docker-compose up --build
 
 ### manually
 ```sh
-git clone https://gitlab.com/mJiyan/mercedes-codeing-challenge.git
+git clone https://github.com/mJiyan/mercedes-coding-challenge.git
 
-cd mercedes-codeing-challenge/server
+cd mercedes-coding-challengee/server
 yarn
 yarn start
 
-cd mercedes-codeing-challenge/server
+cd mercedes-coding-challengee/server
 yarn
 yarn start
 
 Open your browser at http://localhost:3000 
 ```
 
-### presentation
+### Presentation
 
 Short video presentation of solution:
 
@@ -158,9 +159,10 @@ Short video presentation of solution:
 
 ## Support
 
-Please [open an issue](https://gitlab.com/mJiyan/mercedes-codeing-challenge/-/issues) for support & suggestions.
+Please [open an issue](https://github.com/mJiyan/mercedes-coding-challenge/issues) for support & suggestions.
 
 
 
+## Contributing
 
-
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/mJiyan/mercedes-coding-challenge/compare).
