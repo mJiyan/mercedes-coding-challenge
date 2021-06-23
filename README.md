@@ -15,12 +15,19 @@ Thirdly,
 
 
 ## Table of Contents
-
+- [Presentation](#presentation)
 - [Installation](#installation)
 - [Structure](#structure)
 - [Support](#support)
-- [Presentation](#presentation)
 - [Contributing](#contributing)
+
+
+### Presentation
+
+Short video presentation of solution:
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
+
 
 ## Installation
 ### with Docker
@@ -46,13 +53,6 @@ yarn start
 
 Open your browser at http://localhost:3000 
 ```
-
-### Presentation
-
-Short video presentation of solution:
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
-
 
 
 ## Structure
