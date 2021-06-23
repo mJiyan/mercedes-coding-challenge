@@ -1,0 +1,42 @@
+version: '3.5'
+services:
+    # Create client container
+    client: # Name of our service
+      build: ./client # path to dockerfile
+      ports: # Port binding to host from docker container
+        - "3000:3000" # Bind port 3000 of host to 3000 of container
+      container_name: client-docker
+      restart: always # What to do if container crashes
+      links:
+        - server  # Create server container
+      networks:
+        - app-network
+    server:
+      # Create server container  
+      build: ./server
+      ports:
+        - "8081:8081"
+        - "4000:4000"
+      container_name: server-docker
+      restart: always
+      environment:
+        - DB_URI='mongodb://mongodb:27017/NodeApi'
+      depends_on:
+        - mongodb  # Create database container
+      networks:
+        - app-network
+    mongodb:
+        container_name: mongodb
+        image : mongo:latest
+        environment:
+        - PUID=1000
+        - PGID=1000
+        ports:
+        - 27017:27017
+        restart: unless-stopped
+        networks:
+          - app-network
+networks:
+  app-network:
+    driver: bridge
+    
