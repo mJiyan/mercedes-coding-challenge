@@ -16,6 +16,7 @@ Thirdly,
 
 ## Table of Contents
 - [Presentation](#presentation)
+- [Presentation](#presentation)
 - [Installation](#installation)
 - [Structure](#structure)
 - [Support](#support)
@@ -26,9 +27,12 @@ Thirdly,
 
 Short video presentation of solution:
 
-[![PRESENTATION](http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
+[![PRESENTATION](<img align="center" width="33%" src="http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg">)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
 
-[![GIF](./mercedes.gif)]
+
+### Presentation
+
+![GIF](./mercedes.gif)
 
 ## Installation
 ### with Docker
