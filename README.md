@@ -16,7 +16,7 @@ Thirdly,
 
 ## Table of Contents
 - [Presentation](#presentation)
-- [Project Overview](#projectview)
+- [Project Overview](#projectoverview)
 - [Installation](#installation)
 - [Structure](#structure)
 - [Support](#support)
@@ -29,7 +29,7 @@ Short video presentation of solution:
 
 [![PRESENTATION](http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
 
-### Project Overview
+### ProjectOverview
 
 A short overview of the project
 
