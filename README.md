@@ -16,7 +16,7 @@ Thirdly,
 
 ## Table of Contents
 - [Presentation](#presentation)
-- [Presentation](#presentation)
+- [Project Overview](#projectview)
 - [Installation](#installation)
 - [Structure](#structure)
 - [Support](#support)
@@ -28,9 +28,10 @@ Thirdly,
 Short video presentation of solution:
 
 [![PRESENTATION](http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
-<div style="text-align:center"><img src="http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg" /></div>
 
-### Presentation
+### Project Overview
+
+A short overview of the project
 
 ![GIF](./mercedes.gif)
 
