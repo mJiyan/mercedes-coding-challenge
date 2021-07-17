@@ -26,8 +26,9 @@ Thirdly,
 
 Short video presentation of solution:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
+[![PRESENTATION](http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
 
+[![GIF](./mercedes.gif)]
 
 ## Installation
 ### with Docker

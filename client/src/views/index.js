@@ -1,8 +1,8 @@
-import LoginPage from './auth/LoginPage';
-import RedirectPage from './auth/RedirectPage';
-import VehicleList from './vehicle/VehicleList';
-import VehicleDetails from './vehicle/VehicleDetails';
-import ErrorPage from './error/ErrorPage';
+import LoginPage from './Auth/LoginPage';
+import RedirectPage from './Auth/RedirectPage';
+import VehicleList from './Vehicle/VehicleList';
+import VehicleDetails from './Vehicle/VehicleDetails';
+import ErrorPage from './Error/ErrorPage';
 
 export {
     LoginPage,

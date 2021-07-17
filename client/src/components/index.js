@@ -1,6 +1,6 @@
-import DoorStatus from "./Door";
-import Navbar from "./Navbar";
-import Redirect from "./Redirect";
+import DoorStatus from "./Door/Door";
+import Navbar from "./Navbar/Navbar";
+import Redirect from "./Redirect/Redirect";
 
 export {
     DoorStatus,

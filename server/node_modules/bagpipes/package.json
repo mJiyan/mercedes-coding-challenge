@@ -1,0 +1,38 @@
+{
+  "name": "bagpipes",
+  "version": "0.0.6",
+  "description": "Less code, more flow. Let's dance!",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apigee-127/bagpipes.git"
+  },
+  "keywords": [
+    "swagger",
+    "plumbing",
+    "pipes"
+  ],
+  "author": "Scott Ganyo <sganyo@apigee.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apigee-127/bagpipes/issues"
+  },
+  "homepage": "https://github.com/apigee-127/bagpipes",
+  "dependencies": {
+    "async": "^1.4.2",
+    "debug": "^2.1.2",
+    "jspath": "^0.3.1",
+    "lodash": "^3.5.0",
+    "machinepack-http": "^2.3.0",
+    "mustache": "^2.1.3",
+    "pipeworks": "^1.3.0"
+  },
+  "devDependencies": {
+    "should": "^7.1.0",
+    "supertest": "^1.1.0"
+  }
+}
