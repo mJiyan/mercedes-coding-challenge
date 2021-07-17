@@ -27,8 +27,8 @@ Thirdly,
 
 Short video presentation of solution:
 
-[![PRESENTATION](<img align="center" width="33%" src="http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg">)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
-
+[![PRESENTATION](http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg)](http://www.youtube.com/watch?v=ZliTDWYdoDc)
+<div style="text-align:center"><img src="http://img.youtube.com/vi/ZliTDWYdoDc/0.jpg" /></div>
 
 ### Presentation
 
